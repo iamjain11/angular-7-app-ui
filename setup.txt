@@ -1,0 +1,7 @@
+npm install bootstrap ngx-bootstrap --save
+npm install --save font-awesome angular-font-awesome
+
+------------create component----------
+ng g c my-radar-chart
+ng g c my-pie-chart
+ng g c nav-header
